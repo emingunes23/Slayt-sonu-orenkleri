@@ -1,0 +1,8 @@
+C:\C#\6.Slayt\Slayt8\Slayt8\bin\Debug\Slayt8.exe.config
+C:\C#\6.Slayt\Slayt8\Slayt8\bin\Debug\Slayt8.exe
+C:\C#\6.Slayt\Slayt8\Slayt8\bin\Debug\Slayt8.pdb
+C:\C#\6.Slayt\Slayt8\Slayt8\obj\Debug\Slayt8.csproj.AssemblyReference.cache
+C:\C#\6.Slayt\Slayt8\Slayt8\obj\Debug\Slayt8.csproj.SuggestedBindingRedirects.cache
+C:\C#\6.Slayt\Slayt8\Slayt8\obj\Debug\Slayt8.csproj.CoreCompileInputs.cache
+C:\C#\6.Slayt\Slayt8\Slayt8\obj\Debug\Slayt8.exe
+C:\C#\6.Slayt\Slayt8\Slayt8\obj\Debug\Slayt8.pdb

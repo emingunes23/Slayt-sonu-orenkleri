@@ -1,0 +1,8 @@
+C:\C#\6.Slayt\Slayt5\bin\Debug\Slayt5.exe.config
+C:\C#\6.Slayt\Slayt5\bin\Debug\Slayt5.exe
+C:\C#\6.Slayt\Slayt5\bin\Debug\Slayt5.pdb
+C:\C#\6.Slayt\Slayt5\obj\Debug\Slayt5.csproj.AssemblyReference.cache
+C:\C#\6.Slayt\Slayt5\obj\Debug\Slayt5.csproj.SuggestedBindingRedirects.cache
+C:\C#\6.Slayt\Slayt5\obj\Debug\Slayt5.csproj.CoreCompileInputs.cache
+C:\C#\6.Slayt\Slayt5\obj\Debug\Slayt5.exe
+C:\C#\6.Slayt\Slayt5\obj\Debug\Slayt5.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slay4_1.1", "Slay4_1.1.csproj", "{789AAD1C-3784-40B8-A997-6B678BC7ED93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{789AAD1C-3784-40B8-A997-6B678BC7ED93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789AAD1C-3784-40B8-A997-6B678BC7ED93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789AAD1C-3784-40B8-A997-6B678BC7ED93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789AAD1C-3784-40B8-A997-6B678BC7ED93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18291478-19D0-42F0-AA1D-87137F0E0021}
+	EndGlobalSection
+EndGlobal
